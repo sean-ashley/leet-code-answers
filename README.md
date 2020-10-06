@@ -1,3 +1,3 @@
 # leet-code-answers
-My leetcode answers in python 
+My leetcode answers in python, C++ and SQL
 
